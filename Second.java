@@ -4,5 +4,7 @@ class Second{
           System.out.println("Checking connect with github and jenkins");
 
           System.out.println("checing for new update");
+
+          System.out.pritln("another check");
       }
 }

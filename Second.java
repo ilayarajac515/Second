@@ -5,6 +5,6 @@ class Second{
 
           System.out.println("checing for new update");
 
-          System.out.pritln("another check");
+          System.out.println("another check");
       }
 }
